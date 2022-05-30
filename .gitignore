@@ -5,7 +5,8 @@ build/
 # IntelliJ
 out/
 *.iml
-.idea
+.idea/*
+!.idea/codeStyles
 
 .java-version
 .DS_Store
